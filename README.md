@@ -4,16 +4,16 @@ Code for top 5% (#37 of 1099) submission to the Women in Data Science Datathon f
 
 # Data Structure 
 Data were provided in the form of 4 tabular matrices: categorical, quanitative, connectome, and solutions. 
-## Categorical 
+### Categorical 
 Categorical data were derived from behavioral surveys administered to study participants. These categories related to non-numeric scales and groups such as demographics, enrollment year, study site, and parental education and occupation (Barratt Social Status). 
 
-## Quantiative 
+### Quantiative 
 Quantitative data were derived from testing assessments such as color vision, handedness, age at MRI, and ADHD-related behavoral measures. 
 
-## Connectomes 
+### Connectomes 
 MRI functional connectome data were provided as a vector of connection magnitudes  between 200 locations in the Schafer atlas for each participant. 
 
-## Solutions
+### Solutions
 For the training data, solutions were provided in the form of binary sex (0=M, 1=F) and ADHD diagnosis (0=neurotypical, 1=ADHD diagnosis) variables. 
 
 # Code
