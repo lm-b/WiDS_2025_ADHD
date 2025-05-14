@@ -29,11 +29,11 @@ Classical or statistical machine learning solutions were developed using scikit-
 
 # Submission Results
 The scikit-learn approaches performed best in ensemble. 
-Approach    |      Train F1      |    Test F1        |   Final F1 
-Approach    |      Train F1      |    Test F1        |   Final F1 
-Approach    |      Train F1      |    Test F1        |   Final F1 
-Approach    |      Train F1      |    Test F1        |   Final F1 
-Approach    |      Train F1      |    Test F1        |   Final F1 
-Approach    |      Train F1      |    Test F1        |   Final F1 
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
+|Approach    |      Train F1      |    Test F1        |   Final F1 |
 
 
